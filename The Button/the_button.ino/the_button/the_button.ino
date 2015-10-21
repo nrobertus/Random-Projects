@@ -1,5 +1,5 @@
-#define BTN_PRESSED 1000
-#define SAFETY_OFF 1000
+#define BTN_PRESSED 1020
+#define SAFETY_OFF 1020
 
 void setup() {
 Serial.begin(9600); // set the baud rate
