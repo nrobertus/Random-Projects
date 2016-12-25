@@ -95,5 +95,3 @@ sendGreeting()
 sendFacts()
 
 server.quit()
-cat_facts.py
-Displaying cat_facts.py.
